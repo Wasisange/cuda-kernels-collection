@@ -437,3 +437,4 @@ Commit at 2023-02-14 17:20:42: Refactor core logic for better performance
 Commit at 2023-02-20 13:27:11: Improve model evaluation metrics
 Commit at 2023-02-23 12:42:29: Clean up code and remove deprecated functions
 Commit at 2023-02-23 16:07:28: Fix minor bug in data processing
+Commit at 2023-02-24 19:38:17: Optimize memory usage in training loop
