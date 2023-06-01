@@ -473,3 +473,4 @@ Commit at 2023-05-19 16:53:07: Clean up code and remove deprecated functions
 Commit at 2023-05-22 09:14:51: Add support for new data formats
 Commit at 2023-05-25 16:42:26: Optimize database queries
 Commit at 2023-05-25 18:44:39: Fix security vulnerability in third-party library
+Commit at 2023-06-01 14:10:26: Update README with more detailed instructions
