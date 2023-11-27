@@ -567,3 +567,4 @@ Commit at 2023-11-21 19:32:03: Fix minor bug in data processing
 Commit at 2023-11-23 15:36:42: Improve model evaluation metrics
 Commit at 2023-11-24 12:06:08: Optimize memory usage in training loop
 Commit at 2023-11-27 18:26:58: Refactor core logic for better performance
+Commit at 2023-11-27 18:22:08: Update documentation and examples
