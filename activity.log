@@ -598,3 +598,4 @@ Commit at 2024-01-02 09:39:09: Implement new feature requested by users
 Commit at 2024-01-03 18:10:34: Improve error handling and logging
 Commit at 2024-01-04 13:59:07: Improve model evaluation metrics
 Commit at 2024-01-04 17:57:37: Update documentation and examples
+Commit at 2024-01-05 14:30:11: Refactor core logic for better performance
