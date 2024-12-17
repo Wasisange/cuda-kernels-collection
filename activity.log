@@ -788,3 +788,4 @@ Commit at 2024-12-13 11:20:56: Update dependencies to latest versions
 Commit at 2024-12-13 10:26:04: Add support for new data formats
 Commit at 2024-12-16 12:17:46: Refactor core logic for better performance
 Commit at 2024-12-16 13:52:57: Clean up code and remove deprecated functions
+Commit at 2024-12-17 13:18:41: Add unit tests for new features
