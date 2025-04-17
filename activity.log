@@ -126,3 +126,4 @@ Commit at 2025-04-14 10:09:09: Fix minor bug in data processing
 Commit at 2025-04-16 10:49:03: Add unit tests for new features
 Commit at 2025-04-16 12:03:24: Clean up code and remove deprecated functions
 Commit at 2025-04-16 15:42:31: Optimize database queries
+Commit at 2025-04-17 15:51:06: Update README with more detailed instructions
