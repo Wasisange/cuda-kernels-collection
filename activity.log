@@ -129,3 +129,4 @@ Commit at 2025-04-16 15:42:31: Optimize database queries
 Commit at 2025-04-17 15:51:06: Update README with more detailed instructions
 Commit at 2025-04-17 11:22:30: Add support for new data formats
 Commit at 2025-04-17 16:37:39: Optimize database queries
+Commit at 2025-04-21 15:50:07: Add unit tests for new features
