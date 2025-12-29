@@ -348,3 +348,4 @@ Commit at 2025-12-24 10:43:07: Improve model evaluation metrics
 Commit at 2025-12-24 14:38:51: Update dependencies to latest versions
 Commit at 2025-12-24 10:52:35: Update README with more detailed instructions
 Commit at 2025-12-29 17:41:11: Fix minor bug in data processing
+Commit at 2025-12-29 17:46:44: Refactor core logic for better performance
