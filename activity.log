@@ -393,3 +393,4 @@ Commit at 2026-02-25 17:49:05: Refactor core logic for better performance
 Commit at 2026-02-26 11:37:24: Add support for new data formats
 Commit at 2026-03-03 14:45:31: Add support for new data formats
 Commit at 2026-03-06 16:44:58: Add support for new data formats
+Commit at 2026-03-06 15:18:41: Improve error handling and logging
