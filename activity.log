@@ -846,3 +846,4 @@ Commit at 2026-05-05 17:04:27: Update documentation and examples
 Commit at 2026-05-07 16:26:47: Implement new feature requested by users
 Commit at 2026-05-07 09:00:10: Enhance visualization tools
 Commit at 2026-05-08 18:39:52: Optimize memory usage in training loop
+Commit at 2026-05-12 15:33:23: Refactor core logic for better performance
