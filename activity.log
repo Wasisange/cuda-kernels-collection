@@ -949,3 +949,4 @@ Commit at 2026-11-17 11:38:42: Add unit tests for new features
 Commit at 2026-11-19 13:43:51: Improve model evaluation metrics
 Commit at 2026-11-19 18:46:42: Optimize memory usage in training loop
 Commit at 2026-11-25 12:48:22: Improve model evaluation metrics
+Commit at 2026-11-25 19:03:56: Improve error handling and logging
